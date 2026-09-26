@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 250" role="img" aria-labelledby="title desc">
+<title id="title">ต้นกล้าเล็ก ๆ กำลังเติบโต</title><desc id="desc">ต้นกล้าที่มีใบสองใบ รากใต้ดิน และดวงอาทิตย์ เป็นตัวอย่างรูปสำหรับข้อ 6</desc>
+<rect width="540" height="250" fill="#fffdf7" rx="16"/>
+<g fill="none" stroke="#d1a443" stroke-width="3" stroke-linecap="round"><circle cx="421" cy="53" r="21" fill="#fff1b9"/><path d="M421 20v-9m0 75v9m-34-42h-10m78 0h10m-67-24-7-7m61 62-7-7m-47 0-7 7m61-62-7 7"/></g>
+<path d="M70 168Q166 161 263 168T470 168" fill="none" stroke="#927250" stroke-width="3" stroke-linecap="round"/>
+<g fill="none" stroke="#927250" stroke-width="3" stroke-linecap="round"><path d="M268 170v44m0-30-24 22m24-15 24 18m-24-9-11 24m11-16 12 14"/></g>
+<g stroke="#40835c" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M268 167v-54" fill="none"/><path d="M268 126Q215 127 211 84Q253 82 268 126Z" fill="#c3dfb2"/><path d="M269 112Q271 66 320 61Q321 105 269 112Z" fill="#c3dfb2"/><path d="m235 105 33 22m1-16 27-25" fill="none"/></g>
+</svg>
